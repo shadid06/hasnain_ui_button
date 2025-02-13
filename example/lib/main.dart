@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:hasnain_ui_button/button.dart';
+import 'package:hasnain_ui_button/hasnain_ui_button.dart';
 
 void main() {
   runApp(const MyApp());

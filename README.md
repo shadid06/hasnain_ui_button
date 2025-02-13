@@ -40,7 +40,7 @@ flutter pub get
 First, import the package:
 
 ```dart
-import 'package:hasnain_ui_button/button.dart';
+import 'package:hasnain_ui_button/hasnain_ui_button.dart';
 ```
 
 ### Basic Usage
@@ -155,16 +155,6 @@ Button(
 - Requires Flutter SDK: >=3.0.0
 - Supports both Material 2 and Material 3
 - Platform Support: Android, iOS, Web, Windows, macOS, Linux
-
-<!-- ## Contributing
-
-Feel free to contribute to this package:
-
-1. Fork it
-2. Create your feature branch (git checkout -b feature/awesome-feature)
-3. Commit your changes (git commit -m 'Add awesome feature')
-4. Push to the branch (git push origin feature/awesome-feature)
-5. Create a Pull Request -->
 
 ## License
 

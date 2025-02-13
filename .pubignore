@@ -1,0 +1,11 @@
+# Development
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+
+# Generated files
+*.iml
+*.lock
