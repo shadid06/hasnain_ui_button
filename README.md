@@ -135,6 +135,30 @@ Button(
 )
 ```
 
+#### Primary Color
+
+```dart
+ Button(
+  text: 'primary',
+  onPressed: () {},
+  backgroundColor: colorScheme.primary,
+  height: 40,
+  width: 100,
+  ),
+```
+
+#### Secondary Color
+
+```dart
+ Button(
+  text: 'secondary',
+  onPressed: () {},
+  backgroundColor: colorScheme.secondary,
+  height: 40,
+  width: 100,
+  ),
+```
+
 ## Properties
 
 | Property        | Type          | Description                                        |
@@ -155,20 +179,6 @@ Button(
 - Requires Flutter SDK: >=3.0.0
 - Supports both Material 2 and Material 3
 - Platform Support: Android, iOS, Web, Windows, macOS, Linux
-
-# <<<<<<< HEAD
-
-<!-- ## Contributing
-
-Feel free to contribute to this package:
-
-1. Fork it
-2. Create your feature branch (git checkout -b feature/awesome-feature)
-3. Commit your changes (git commit -m 'Add awesome feature')
-4. Push to the branch (git push origin feature/awesome-feature)
-5. Create a Pull Request -->
-
-> > > > > > > a7f072d2db35f37b2d967e976a11a75111a485d0
 
 ## License
 
