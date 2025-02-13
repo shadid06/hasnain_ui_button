@@ -135,6 +135,30 @@ Button(
 )
 ```
 
+#### Primary Color
+
+```dart
+ Button(
+  text: 'primary',
+  onPressed: () {},
+  backgroundColor: colorScheme.primary,
+  height: 40,
+  width: 100,
+  ),
+```
+
+#### Secondary Color
+
+```dart
+ Button(
+  text: 'secondary',
+  onPressed: () {},
+  backgroundColor: colorScheme.secondary,
+  height: 40,
+  width: 100,
+  ),
+```
+
 ## Properties
 
 | Property        | Type          | Description                                        |
