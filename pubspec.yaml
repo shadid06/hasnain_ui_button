@@ -1,7 +1,10 @@
 name: hasnain_ui_button
 description: A customizable button widget package for Flutter applications
-version: 0.0.3
+version: 0.0.5
 homepage: https://github.com/shadid06/hasnain_ui_button
+screenshots:
+  - description: A customizable button widget package for Flutter applications
+    path: example/hasnain_ui_button_example.png
 
 environment:
   sdk: ">=2.12.0 <4.0.0"
