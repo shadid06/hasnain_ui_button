@@ -26,7 +26,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  hasnain_ui_button: ^0.0.1
+  hasnain_ui_button: ^0.0.3
 ```
 
 Then run:
@@ -42,6 +42,10 @@ First, import the package:
 ```dart
 import 'package:hasnain_ui_button/hasnain_ui_button.dart';
 ```
+
+#### Example
+
+![Example Screen Shot](./hasnain_ui_button_example.png)
 
 ### Basic Usage
 
